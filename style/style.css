@@ -38,6 +38,7 @@ aside {
   background-image: url("../images/profile.jpg");
   height: 300px;
   background-position: center;
+  background-position-y: -40px;
   background-repeat: no-repeat;
   background-size: cover;
 }
