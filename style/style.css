@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
 :root {
   --grey: #706f73;
@@ -11,7 +11,7 @@
 
 html, body {
   background: var(--greyLight);
-  font-family: Lato, helvetica, arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 header {
@@ -23,10 +23,10 @@ main .card {
   padding: 20px;
   color: var(--black);
   background-color: var(--white);
-  border-radius: 5px;
-  -webkit-box-shadow: 0 10px 6px -6px #777;
-  -moz-box-shadow: 0 10px 6px -6px #777;
-  box-shadow: 0 10px 6px -6px #777;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 10px 6px -6px #969696;
+  -moz-box-shadow: 0 10px 6px -6px #969696;
+  box-shadow: 0 10px 6px -6px #969696;
 }
 
 aside {
